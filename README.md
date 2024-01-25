@@ -3,6 +3,8 @@
 My name is Veeti and I'm a student at Gradia.<br>
 You may contact me via my email address: hello@veeti2304.me<br>
 
+Below this you can see the programming languages I use, the ones I'm learning, some tools which I can use, other stuff and operating systems I can use.<br><br>
+
 <!-- Know -->
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 
