@@ -1,6 +1,7 @@
 
 ## Hello visitor! 👋
-My name is Veeti and I'm a student at Gradia.<br>
+
+Former student of Desktop Application Programming with a sidehobby of PHP webdev.<br>
 
 Below this you can see the programming languages I use, the ones I'm learning, some tools which I can use, other stuff and operating systems I can use.<br><br>
 
